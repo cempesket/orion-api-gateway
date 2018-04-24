@@ -1,0 +1,8 @@
+{
+  "callbackURL": "",
+  "clientID": "temp",
+  "oidcIssuer": "",
+  "identityMetadata": "https://login.microsoftonline.com/emakina.onmicrosoft.com/.well-known/openid-configuration",
+  "responseType": "",
+  "responseMode": ""
+}

@@ -1,0 +1,28 @@
+{
+  "name": "active-directory-webapi-nodejs",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "passport": "0.4.0",
+    "passport-azure-ad": "3.0.8",
+    "restify": "6.0.1",
+    "restify-plugins": "1.6.0",
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.2",
+    "crypto-js": "^3.1.6",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "lodash": "^4.15.0",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.5.9",
+    "validator": "^5.6.0"
+  },
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.0.2",
+    "nodemon": "^1.10.2",
+    "supertest": "^2.0.0"
+  }
+}
